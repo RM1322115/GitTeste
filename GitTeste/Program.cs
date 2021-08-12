@@ -6,7 +6,7 @@ namespace GitTeste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("teste2!");
+            Console.WriteLine("teste3!");
         }
     }
 }
